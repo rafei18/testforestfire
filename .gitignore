@@ -20,7 +20,7 @@ venv/
 *.env
 *.DS_Store
 # Pickle files
-*.pkl
+
 # Bibliothèques installées localement
 *.egg-info/
 
