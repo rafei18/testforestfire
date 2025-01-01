@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Environnements virtuels
+env/
+venv/
+*.venv
+
+# Fichiers de log ou de débogage
+*.log
+
+# Fichiers de cache ou temporaires
+*.cache
+*.tmp
+
+# Configurations spécifiques à l'utilisateur
+*.env
+*.DS_Store
+# Pickle files
+*.pkl
+# Bibliothèques installées localement
+*.egg-info/
+
+# Dataset files
+economic_index.csv
+Algerian_forest_fires_cleaned_dataset.csv
+
+*.xlsx
+*.json
